@@ -1,10 +1,10 @@
 # Infrastructure-as-Code-with-CloudFormation
 I will demonstrate how to set up a cloud formation template. I'm doing this project to learn about IaC and how I can do this to my own architecture, ie my CI/CD architecture. 
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Infrastructure as Code with CloudFormation
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-cloudformation-updated)
+
 
 **Author:** Darryl Brown  
 **Email:** darrylbrown1991@gmail.com
